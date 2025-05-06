@@ -1,0 +1,16 @@
+/* New CSS for the Updated Profile Form */
+
+:root {
+    --profile-bg: #f9f9f9;
+    --profile-box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.1);
+    --profile-border-radius: 0.5rem;
+    --header-bg: rgba(255, 255, 255, 0.8);
+    --header-text-primary: #333;
+    --header-text-secondary: #666;
+    --profile-picture-border: #fff;
+    --profile-section-border: #eee;
+    --profile-field-text: #555;
+    --profile-field-label: #333;
+    --social-icon-color: #444;
+    --social-icon-hover: #007bff;
+}
